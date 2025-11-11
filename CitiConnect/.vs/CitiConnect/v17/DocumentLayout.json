@@ -1,0 +1,198 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\Naris\\Downloads\\CitiConnect\\CitiConnect\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{B968881F-4AC1-45BA-8626-177562C9D867}|CitiConnect.csproj|c:\\users\\naris\\downloads\\citiconnect\\citiconnect\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{B968881F-4AC1-45BA-8626-177562C9D867}|CitiConnect.csproj|solutionrelative:program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{B968881F-4AC1-45BA-8626-177562C9D867}|ST10028049_PROG7312POE.csproj|C:\\Users\\Naris\\Downloads\\CitiConnect\\CitiConnect\\service.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{B968881F-4AC1-45BA-8626-177562C9D867}|ST10028049_PROG7312POE.csproj|solutionrelative:service.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{B968881F-4AC1-45BA-8626-177562C9D867}|ST10028049_PROG7312POE.csproj|C:\\Users\\Naris\\Downloads\\CitiConnect\\CitiConnect\\service.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{B968881F-4AC1-45BA-8626-177562C9D867}|ST10028049_PROG7312POE.csproj|solutionrelative:service.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{B968881F-4AC1-45BA-8626-177562C9D867}|ST10028049_PROG7312POE.csproj|C:\\Users\\Naris\\Downloads\\CitiConnect\\CitiConnect\\mainmenuform.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{B968881F-4AC1-45BA-8626-177562C9D867}|ST10028049_PROG7312POE.csproj|solutionrelative:mainmenuform.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{B968881F-4AC1-45BA-8626-177562C9D867}|ST10028049_PROG7312POE.csproj|C:\\Users\\Naris\\Downloads\\CitiConnect\\CitiConnect\\events.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{B968881F-4AC1-45BA-8626-177562C9D867}|ST10028049_PROG7312POE.csproj|solutionrelative:events.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{B968881F-4AC1-45BA-8626-177562C9D867}|ST10028049_PROG7312POE.csproj|C:\\Users\\Naris\\Downloads\\CitiConnect\\CitiConnect\\events.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{B968881F-4AC1-45BA-8626-177562C9D867}|ST10028049_PROG7312POE.csproj|solutionrelative:events.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{B968881F-4AC1-45BA-8626-177562C9D867}|ST10028049_PROG7312POE.csproj|C:\\Users\\Naris\\Downloads\\CitiConnect\\CitiConnect\\servicerequestnode.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{B968881F-4AC1-45BA-8626-177562C9D867}|ST10028049_PROG7312POE.csproj|solutionrelative:servicerequestnode.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{B968881F-4AC1-45BA-8626-177562C9D867}|ST10028049_PROG7312POE.csproj|C:\\Users\\Naris\\Downloads\\CitiConnect\\CitiConnect\\graph.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{B968881F-4AC1-45BA-8626-177562C9D867}|ST10028049_PROG7312POE.csproj|solutionrelative:graph.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{B968881F-4AC1-45BA-8626-177562C9D867}|ST10028049_PROG7312POE.csproj|C:\\Users\\Naris\\Downloads\\CitiConnect\\CitiConnect\\reportissuesform.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{B968881F-4AC1-45BA-8626-177562C9D867}|ST10028049_PROG7312POE.csproj|solutionrelative:reportissuesform.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{B968881F-4AC1-45BA-8626-177562C9D867}|ST10028049_PROG7312POE.csproj|C:\\Users\\Naris\\Downloads\\CitiConnect\\CitiConnect\\service.designer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{B968881F-4AC1-45BA-8626-177562C9D867}|ST10028049_PROG7312POE.csproj|solutionrelative:service.designer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{B968881F-4AC1-45BA-8626-177562C9D867}|ST10028049_PROG7312POE.csproj|C:\\Users\\Naris\\Downloads\\CitiConnect\\CitiConnect\\home.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{B968881F-4AC1-45BA-8626-177562C9D867}|ST10028049_PROG7312POE.csproj|solutionrelative:home.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 7,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 10,
+              "Title": "Home.cs [Design]",
+              "DocumentMoniker": "C:\\Users\\Naris\\Downloads\\CitiConnect\\CitiConnect\\Home.cs",
+              "RelativeDocumentMoniker": "Home.cs",
+              "ToolTip": "C:\\Users\\Naris\\Downloads\\ST10028049_PROG7312POE\\Home.cs [Design]",
+              "RelativeToolTip": "..\\..\\ST10028049_PROG7312POE\\Home.cs [Design]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-09-10T16:17:59.948Z",
+              "IsPinned": true
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "Service.cs",
+              "DocumentMoniker": "C:\\Users\\Naris\\Downloads\\CitiConnect\\CitiConnect\\Service.cs",
+              "RelativeDocumentMoniker": "Service.cs",
+              "ToolTip": "C:\\Users\\Naris\\Downloads\\CitiConnect\\CitiConnect\\Service.cs",
+              "RelativeToolTip": "Service.cs",
+              "ViewState": "AgIAAG0AAAAAAAAAAAAgwHQAAAApAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-15T19:42:18.745Z",
+              "IsPinned": true
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{cce594b6-0c39-4442-ba28-10c64ac7e89f}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "Events.cs",
+              "DocumentMoniker": "C:\\Users\\Naris\\Downloads\\CitiConnect\\CitiConnect\\Events.cs",
+              "RelativeDocumentMoniker": "Events.cs",
+              "ToolTip": "C:\\Users\\Naris\\Downloads\\CitiConnect\\CitiConnect\\Events.cs",
+              "RelativeToolTip": "Events.cs",
+              "ViewState": "AgIAAKoBAAAAAAAAAAAAALQBAABEAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-18T17:44:10.209Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "Service.cs [Design]",
+              "DocumentMoniker": "C:\\Users\\Naris\\Downloads\\CitiConnect\\CitiConnect\\Service.cs",
+              "RelativeDocumentMoniker": "Service.cs",
+              "ToolTip": "C:\\Users\\Naris\\Downloads\\ST10028049_PROG7312POE\\Service.cs [Design]",
+              "RelativeToolTip": "..\\..\\ST10028049_PROG7312POE\\Service.cs [Design]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-09-10T16:28:30.708Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "Events.cs [Design]",
+              "DocumentMoniker": "C:\\Users\\Naris\\Downloads\\CitiConnect\\CitiConnect\\Events.cs",
+              "RelativeDocumentMoniker": "Events.cs",
+              "ToolTip": "C:\\Users\\Naris\\Downloads\\ST10028049_PROG7312POE\\Events.cs [Design]",
+              "RelativeToolTip": "..\\..\\ST10028049_PROG7312POE\\Events.cs [Design]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-18T10:22:30.217Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "ServiceRequestNode.cs",
+              "DocumentMoniker": "C:\\Users\\Naris\\Downloads\\CitiConnect\\CitiConnect\\ServiceRequestNode.cs",
+              "RelativeDocumentMoniker": "ServiceRequestNode.cs",
+              "ToolTip": "C:\\Users\\Naris\\Downloads\\CitiConnect\\CitiConnect\\ServiceRequestNode.cs",
+              "RelativeToolTip": "ServiceRequestNode.cs",
+              "ViewState": "AgIAAAEAAAAAAAAAAAAAAAgAAAAkAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-18T14:10:43.958Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\Naris\\Downloads\\CitiConnect\\CitiConnect\\Program.cs",
+              "RelativeDocumentMoniker": "Program.cs",
+              "ToolTip": "C:\\Users\\Naris\\Downloads\\CitiConnect\\CitiConnect\\Program.cs",
+              "RelativeToolTip": "Program.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAcAAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-18T16:46:40.065Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "MainMenuForm.cs [Design]",
+              "DocumentMoniker": "C:\\Users\\Naris\\Downloads\\CitiConnect\\CitiConnect\\MainMenuForm.cs",
+              "RelativeDocumentMoniker": "MainMenuForm.cs",
+              "ToolTip": "C:\\Users\\Naris\\Downloads\\ST10028049_PROG7312POE\\MainMenuForm.cs [Design]",
+              "RelativeToolTip": "..\\..\\ST10028049_PROG7312POE\\MainMenuForm.cs [Design]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-18T19:11:10.824Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "Graph.cs",
+              "DocumentMoniker": "C:\\Users\\Naris\\Downloads\\CitiConnect\\CitiConnect\\Graph.cs",
+              "RelativeDocumentMoniker": "Graph.cs",
+              "ToolTip": "C:\\Users\\Naris\\Downloads\\CitiConnect\\CitiConnect\\Graph.cs",
+              "RelativeToolTip": "Graph.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAgAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-18T14:18:21.049Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
+              "Title": "ReportIssuesForm.cs [Design]",
+              "DocumentMoniker": "C:\\Users\\Naris\\Downloads\\CitiConnect\\CitiConnect\\ReportIssuesForm.cs",
+              "RelativeDocumentMoniker": "ReportIssuesForm.cs",
+              "ToolTip": "C:\\Users\\Naris\\Downloads\\ST10028049_PROG7312POE\\ReportIssuesForm.cs [Design]",
+              "RelativeToolTip": "..\\..\\ST10028049_PROG7312POE\\ReportIssuesForm.cs [Design]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-17T23:17:20.423Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 9,
+              "Title": "Service.Designer.cs",
+              "DocumentMoniker": "C:\\Users\\Naris\\Downloads\\CitiConnect\\CitiConnect\\Service.Designer.cs",
+              "RelativeDocumentMoniker": "Service.Designer.cs",
+              "ToolTip": "C:\\Users\\Naris\\Downloads\\CitiConnect\\CitiConnect\\Service.Designer.cs",
+              "RelativeToolTip": "Service.Designer.cs",
+              "ViewState": "AgIAADQAAAAAAAAAAAASwEQAAAAoAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-14T22:00:13.253Z"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

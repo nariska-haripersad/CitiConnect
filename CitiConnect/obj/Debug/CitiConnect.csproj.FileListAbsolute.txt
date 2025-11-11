@@ -1,0 +1,15 @@
+C:\Users\Naris\Downloads\ST10028049_PROG7312POE\bin\Debug\ST10028049_PROG7312POE.exe.config
+C:\Users\Naris\Downloads\ST10028049_PROG7312POE\bin\Debug\ST10028049_PROG7312POE.exe
+C:\Users\Naris\Downloads\ST10028049_PROG7312POE\bin\Debug\ST10028049_PROG7312POE.pdb
+C:\Users\Naris\Downloads\ST10028049_PROG7312POE\obj\Debug\CitiConnect.csproj.AssemblyReference.cache
+C:\Users\Naris\Downloads\ST10028049_PROG7312POE\obj\Debug\ST10028049_PROG7312POE.exe.config
+C:\Users\Naris\Downloads\ST10028049_PROG7312POE\obj\Debug\CitiConnect.Events.resources
+C:\Users\Naris\Downloads\ST10028049_PROG7312POE\obj\Debug\CitiConnect.Home.resources
+C:\Users\Naris\Downloads\ST10028049_PROG7312POE\obj\Debug\CitiConnect.MainMenuForm.resources
+C:\Users\Naris\Downloads\ST10028049_PROG7312POE\obj\Debug\ST10028049_PROG7312POE.Properties.Resources.resources
+C:\Users\Naris\Downloads\ST10028049_PROG7312POE\obj\Debug\CitiConnect.ReportIssuesForm.resources
+C:\Users\Naris\Downloads\ST10028049_PROG7312POE\obj\Debug\CitiConnect.Service.resources
+C:\Users\Naris\Downloads\ST10028049_PROG7312POE\obj\Debug\CitiConnect.csproj.GenerateResource.cache
+C:\Users\Naris\Downloads\ST10028049_PROG7312POE\obj\Debug\CitiConnect.csproj.CoreCompileInputs.cache
+C:\Users\Naris\Downloads\ST10028049_PROG7312POE\obj\Debug\ST10028049_PROG7312POE.exe
+C:\Users\Naris\Downloads\ST10028049_PROG7312POE\obj\Debug\ST10028049_PROG7312POE.pdb
