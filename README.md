@@ -10,7 +10,7 @@ CitiConnect is a Windows Forms application designed to improve how citizens enga
 ## Running the Application  
 - Download the project folder
 - Open in Visual Studio
-- Run the solution (no external setup required) 
+- Run the solution
 ## Features 
 #### Home Page 
 When the application launches, users are welomed with the CitiConnect logo and a clean side navigation menu containing: 
