@@ -1,7 +1,7 @@
 # CitiConnect
 CitiConnect is a Windows Forms application designed to improve how citizens engage with municipal services in South Africa. The project focuses on two core objectives: 
 - Implementing advanced data structures (trees, heaps, graphs, queues, dictionaries, sets, etc.)
-- Applying user engagement strategies (interactive UI elements, visual responsiveness, real-time feedback, etc.) and creating a clean, user-friendly interface (consistent layout, easy navigation, engaging visual indicators)
+- Applying user engagement strategies (interactive UI elements, visual responsiveness, real-time feedback, etc.) and creating a clean, user-friendly interface (consistent layout, easy navigation, engaging visual indicators, etc.)
 <p>The application allows users to report issues, view local events and announcements and monitor service request statuses. </p>
 
 ## Technologies Used 
