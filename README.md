@@ -35,7 +35,7 @@ Features:
 - Submit the completed issue report
 #### Local Events and Announcements
 A dynamic page for browsing and exploring local events using multiple advanced data structures. 
-- For each event, the event name, date and a 'View Details' button is displayed (clicking 'View Details' expands a section showing the event description, category and location - the button toggles to 'Show Less' to collapse)
+- For each event: the event name, date and a 'View Details' button is displayed (clicking 'View Details' expands a section showing the event description, category and location - the button toggles to 'Show Less' to collapse)
 - Users can filter events by category (via dropdown) and date (via date picker)
 - Users can get personalized recommendations/view suggested events
 ###### Data structures such as Queue, SortedSet, SortedDictionary, HashSet and Dictionary are used to store events, track search patterns and recommend relevant events based on user activity.
